@@ -1,0 +1,4 @@
+#Fri Jan 06 15:06:29 IST 2023
+base.0=/Users/mac/Documents/flutter_projects/Booklub/booklub/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
